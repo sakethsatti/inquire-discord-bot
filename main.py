@@ -165,5 +165,5 @@ async def on_message(ctx):
 
     await ctx.channel.send(embed=rankings)
 
-client.run("OTIxOTAxODUyMDE3MTg4ODg0.Yb5qAQ.wAP9d6saEMN96bgsXKErKPhWUQw")
+client.run(#insert token here)
 
